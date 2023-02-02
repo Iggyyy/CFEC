@@ -1,6 +1,6 @@
 import pytest
 
-from cfec.base import BaseExplainer
+from ..cfec.base import BaseExplainer
 
 
 def test_always_pass():
